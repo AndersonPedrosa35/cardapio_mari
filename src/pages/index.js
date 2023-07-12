@@ -9,8 +9,8 @@ export default function Home() {
         src="/cardapio.jpg"
         alt="Cardapio"
         className="h-full w-full"
-        width={400}
-        height={800}
+        width={500}
+        height={1000}
         priority
       />
     </main>
